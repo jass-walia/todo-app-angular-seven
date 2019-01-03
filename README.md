@@ -1,6 +1,6 @@
 # ToDoApp
 
-This assignment is using [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This project is using [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
 ## Development server
 
